@@ -1,0 +1,29 @@
+{
+  "EREGL.IS": {
+    "state": "OPEN",
+    "fill": 39.06,
+    "stop": 37.07,
+    "target": 43.34,
+    "score": 30,
+    "strategy": "Trend Takibi",
+    "opened_at": "2026-06-06T12:20:19+00:00"
+  },
+  "DOAS.IS": {
+    "state": "OPEN",
+    "fill": 183.5,
+    "stop": 176.39,
+    "target": 196.51,
+    "score": 30,
+    "strategy": "Trend Takibi",
+    "opened_at": "2026-06-06T12:20:19+00:00"
+  },
+  "MAVI.IS": {
+    "state": "OPEN",
+    "fill": 43.46,
+    "stop": 41.88,
+    "target": 47.04,
+    "score": 36,
+    "strategy": "Trend Takibi",
+    "opened_at": "2026-06-06T12:20:19+00:00"
+  }
+}

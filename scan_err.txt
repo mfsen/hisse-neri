@@ -1,0 +1,3 @@
+[scan] Katilim 30: 30 hisse, 365g veri...
+[scan] 30/30 hisse alındı.
+[scan] 1 aday watchlist.json'a yazıldı. Açık pozisyon korunan: 0
